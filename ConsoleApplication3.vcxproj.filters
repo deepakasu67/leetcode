@@ -1,0 +1,1301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="May Challenge">
+      <UniqueIdentifier>{25d90958-fab2-4e4c-8bd7-7c1be472e938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LeetcodeUtility">
+      <UniqueIdentifier>{215319f6-fc9f-47fc-a5dd-695a9ecd4762}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="June Challenge">
+      <UniqueIdentifier>{e63d17d7-769e-444d-a93a-26b5b0737218}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="practice">
+      <UniqueIdentifier>{5432cf3e-0ec0-47ec-bba9-78e2cc7b44f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="July Challenge">
+      <UniqueIdentifier>{cd147e15-e6e2-442a-9ff1-17b1b7f9a4b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Problems">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="August Challenge">
+      <UniqueIdentifier>{c06c61eb-fe97-4b8e-8d65-33a1f3170d54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sept Challenge">
+      <UniqueIdentifier>{eaf769cd-0e4f-4a36-a16c-9ac83619aeef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Nov challenge">
+      <UniqueIdentifier>{572b2727-694d-454d-abdf-0e421fd23cc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dec Challenge">
+      <UniqueIdentifier>{d5accae3-d7d6-46b3-b14a-48a1d2caaf21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Jan Challenge">
+      <UniqueIdentifier>{95e5305f-1efa-46db-968f-4e4b10111cd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FB">
+      <UniqueIdentifier>{c5a56d1e-b142-4c61-941e-936a23a5f6aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="June%2721 challenge">
+      <UniqueIdentifier>{dad9d9f4-37ed-407b-8364-93a91f77a50e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Aug%2721 Challenge">
+      <UniqueIdentifier>{73f7eb21-c5e6-4d8f-bced-91cc8ffdcc65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sept%2721 Challenge">
+      <UniqueIdentifier>{d97692fc-b156-4024-83da-25981e20ef96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OCt%2721">
+      <UniqueIdentifier>{76f37af1-580e-443b-bd26-de7949d9fbd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Amazon">
+      <UniqueIdentifier>{9c20a729-69a2-4dd4-82e0-437f81d7d6cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SER501 Assignment">
+      <UniqueIdentifier>{dce779f6-bf79-475b-9989-7478e59ba60e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Challenge">
+      <UniqueIdentifier>{ee893c79-44e3-4508-9c3e-98f2ea2fa41f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="two pointer">
+      <UniqueIdentifier>{5f19b9e6-034b-4921-a069-bd390bcb139e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="weekly Contest">
+      <UniqueIdentifier>{805e6eda-6134-4bdc-8dfe-53e1a9aaeefa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="weekly Contest\20/11/2021">
+      <UniqueIdentifier>{04f47d5d-f89e-4230-86b3-b5709e7f86bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="weekly Contest\27/11/2021">
+      <UniqueIdentifier>{d5b6890f-a64b-43e2-9eec-90a9c4a4b3c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="weekly Contest\11/12/2021">
+      <UniqueIdentifier>{e05a8780-1bc0-4dff-9cb0-a307a7b4abb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="weekly Contest\12/4/2021">
+      <UniqueIdentifier>{aa2e87ca-67c5-41b1-b376-4beec5bd1622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="weekly Contest\12/18/2021">
+      <UniqueIdentifier>{58599b8c-7aa4-4b59-8f0f-027df57258ae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1365. How Many Numbers Are Smaller Than the Current Number.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1342. Number of Steps to Reduce a Number to Zero.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1221. Split a String in Balanced Strings.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Reverse Integer.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1351. Count Negative Numbers in a Sorted Matrix.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1370. Increasing Decreasing String.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1021. Remove Outermost Parentheses.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1374. Generate a String With Characters That Have Odd Counts.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1389. Create Target Array in the Given Order.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="804. Unique Morse Code Words.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="shashwat.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="oindrilla 1.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1431. Kids With the Greatest Number of Candies.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1436. Destination City.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Ransom Note.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Number Complement.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="17. Letter Combinations of a Phone Number.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="5.First Unique Character in a String.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Majority Element.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="21. Merge Two Sorted Lists.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.h">
+      <Filter>LeetcodeUtility</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.cpp">
+      <Filter>LeetcodeUtility</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Add Two Numbers.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateATreeWithArray.cpp">
+      <Filter>LeetcodeUtility</Filter>
+    </ClCompile>
+    <ClCompile Include="7.Cousins in Binary Tree.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="8.Check If It Is a Straight Line.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="102. Binary Tree Level Order Traversal.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="43. Multiply Strings.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="9.Valid Perfect Square.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="10.Find the Town Judge.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="234. Palindrome Linked List.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="11.Flood Fill.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Single Element in a Sorted Array.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="23. Merge k Sorted Lists.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="13.Remove K Digits.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="14.Implement Trie (Prefix Tree).cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="15.Maximum Sum Circular Subarray.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="16.Odd Even Linked List.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="120. Triangle.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="17.Find All Anagrams in a String.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="18.Permutation in String.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="848. Shifting Letters.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="19.Online Stock Span.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="24. Swap Nodes in Pairs.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="25. Reverse Nodes in k-Group.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="20.Kth Smallest Element in a BST.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="22.Sort Characters By Frequency.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="21.Count Square Submatrices with All Ones.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="23.Interval List Intersections.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="24.Construct Binary Search Tree from Preorder Traversal.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1144. Decrease Elements To Make Array Zigzag.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="29.Course Schedule.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="28.Counting Bits.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="27.Possible partition.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="26.Contiguous Array.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="25.Uncrossed Lines.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="30.K Closest Points to Origin.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="31.Minimum Edit Distance.cpp">
+      <Filter>May Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1.Invert Binary Tree.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="100. Same Tree.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Delete Node in a Linked List.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Two City Scheduling.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="4.Reverse String.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="5.Queue Reconstruction by Height.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Random Pick with Weight.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Coin Change 2.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="8.Power of Two.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="9.Is Subsequence.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="10.Search Insert Position.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="11.Sort Colors.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="Subset Sum.cpp">
+      <Filter>practice</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Insert Delete GetRandom O%281%29.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="209. Minimum Size Subarray Sum.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="13.Largest Divisible Subset.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="14.Cheapest Flights Within K Stops.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="15.Search in a Binary Search Tree.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="16.Validate IP Address.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="17.Surrounded Regions.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="18.H-Index II.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="19.Longest Duplicate Substring.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="20.Permutation Sequence.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="136. Single Number.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="260. Single Number III.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="268. Missing Number.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="22.Single Number II.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="23.Count Complete Tree Nodes.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="95. Unique Binary Search Trees II.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="interviewBit_Sum binary tree or not.cpp">
+      <Filter>practice</Filter>
+    </ClCompile>
+    <ClCompile Include="26.Sum Root to Leaf Numbers.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="25.Find the Duplicate Number.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="24. Unique Binary Search Trees.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="27.Perfect Squares.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="29. Unique Paths.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="30.Word Search II.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1.Arranging Coins.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="21.Dungeon Game.cpp">
+      <Filter>June Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Binary Tree Level Order Traversal II.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Prison Cells After N Days.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="637. Average of Levels in Binary Tree.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="4.Ugly Number II.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="5.Hamming Distance.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="7.Island Perimeter.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="8.3Sum.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="9.Maximum Width of Binary Tree.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="10.Flatten a Multilevel Doubly Linked List.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="11.Subsets.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Reverse Bits.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="13. Same Tree.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="14.Angle Between Hands of a Clock.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="15.Reverse Words in a String.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="17. Top K Frequent Elements.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="18.Course Schedule II.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="19.Add Binary.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="20.Remove Linked List Elements.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="22.Binary Tree Zigzag Level Order Traversal.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="23.Single Number III.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="24.All Paths From Source to Target.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="25.Find Minimum in Rotated Sorted Array II.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="26.Add Digits.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="27.Construct Binary Tree from Inorder and Postorder Traversal.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="28.Task Scheduler.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="29. Best Time to Buy and Sell Stock with Cooldown.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="31.Climbing Stairs.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1.Detect Capital.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Design HashSet.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Valid Palindrome.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="680. Valid Palindrome II.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="168. Excel Sheet Column Title.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="4.Power of Four.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="974. Subarray Sums Divisible by K.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="5.Add and Search Word - Data structure design.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Find All Duplicates in an Array.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="7.Vertical Order Traversal of a Binary Tree.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="8. Path Sum III.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="9. Rotting Oranges.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="10. Excel Sheet Column Number.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="11.H-Index.cpp">
+      <Filter>July Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Pascal%27s Triangle II.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="14. Longest Palindrome.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="15. Non-overlapping Intervals.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="16. Best Time to Buy and Sell Stock III.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="17.Distribute Candies to People.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="18. Numbers With Same Consecutive Differences.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="19. Goat Latin.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="20. Reorder List.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="21.Sort Array By Parity.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="542. 01 Matrix.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="23. Stream of Characters.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="24.Sum of Left Leaves.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="25. Minimum Cost For Tickets.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="26. Fizz Buzz.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="27.Find Right Interval.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="29. Pancake Sorting.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="30. Largest Component Size by Common Factor.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="31.Delete Node in a BST.cpp">
+      <Filter>August Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1. Largest Time for Given Digits.cpp">
+      <Filter>Sept Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Contains Duplicate III.cpp">
+      <Filter>Sept Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Repeated Substring Pattern.cpp">
+      <Filter>Sept Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1. Convert Binary Number in a Linked List to Integer.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Insertion Sort List.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Consecutive Characters.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Minimum Height Trees.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="5. Minimum Cost to Move Chips to The Same Position.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="6. Find the Smallest Divisor Given a Threshold.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Add Two Numbers II.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="8. Binary Tree Tilt.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="10. Flipping an Image.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="9. Maximum Difference Between Node and Ancestor.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Valid Square.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="12. Permutations II.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="13. Populating Next Right Pointers in Each Node.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="15. Range Sum of BST.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="16. Longest Mountain in Array.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="17.Mirror Reflection.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="18. Decode String.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="19. Search in Rotated Sorted Array II.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="20.Numbers At Most N Given Digit Set.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="21. House Robber III.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="House Robber II.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="22. Basic Calculator II.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="23. Smallest Integer Divisible by K.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1. Maximum Depth of Binary Tree.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Linked List Random Node.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3. Increasing Order Search Tree.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="4. The kth Factor of n.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="5. Can Place Flowers.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="24. Longest Substring with At Least K Repeating Characters.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="25.Partition Equal Subset Sum.cpp">
+      <Filter>Nov challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="6.Populating Next Right Pointers in Each Node II.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Spiral Matrix II.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="8. Pairs of Songs With Total Durations Divisible by 60.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="9. Valid Mountain Array.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="10. Remove Duplicates from Sorted Array II.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="26. Remove Duplicates from Sorted Array.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="11.Smallest Subtree with all the Deepest Nodes.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="14. Squares of a Sorted Array.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="15. Validate Binary Search Tree.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="13. Palindrome Partitioning.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="12. Burst Balloons.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="16. 4Sum II.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="17. Increasing Triplet Subsequence.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="19. Decoded String at Index.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1. Check Array Formation Through Concatenation.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Find a Corresponding Node of a Binary Tree in a Clone of That Tree.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="20. Smallest Range II.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3. Beautiful Arrangement.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="667. Beautiful Arrangement II.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Merge Two Sorted Lists.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="5. Remove Duplicates from Sorted List II.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="6. Kth Missing Positive Number.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="21.Balanced Binary Tree.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="22. Next Greater Element III.cpp">
+      <Filter>Dec Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Longest Substring Without Repeating Characters.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="8. Check If Two String Arrays are Equivalent.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="9. Word Ladder.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="10. Create Sorted Array through Instructions.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Merge Sorted Array.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="12. Add Two Numbers.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="13. Boats to Save People.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="14. Minimum Operations to Reduce X to Zero.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="15. Get Maximum in Generated Array.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="16. Kth Largest Element in an Array.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="isBinaryTreeAAvg.cpp">
+      <Filter>practice</Filter>
+    </ClCompile>
+    <ClCompile Include="238. Product of Array Except Self.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="236. Lowest Common Ancestor of a Binary Tree.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="560. Subarray Sum Equals K.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="17. Count Sorted Vowel Strings.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="18.Max Number of K-Sum Pairs.cpp">
+      <Filter>Jan Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="297. Serialize and Deserialize Binary Tree.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="140. Word Break II.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="230. Kth Smallest Element in a BST.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="953. Verifying an Alien Dictionary.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="31. Next Permutation.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1249. Minimum Remove to Make Valid Parentheses.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="415. Add Strings.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="199. Binary Tree Right Side View.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1428. Leftmost Column with at Least a One.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="621. Task Scheduler.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="721. Accounts Merge.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="50. Pow(x, n).cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="34. Find First and Last Position of Element in Sorted Array.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="543. Diameter of Binary Tree.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1570. Dot Product of Two Sparse Vectors.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="636. Exclusive Time of Functions.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="523. Continuous Subarray Sum.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="426. Convert Binary Search Tree to Sorted Doubly Linked List.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="438. Find All Anagrams in a String.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="785. Is Graph Bipartite.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="670. Maximum Swap.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="270. Closest Binary Search Tree Value.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="249. Group Shifted Strings.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="398. Random Pick Index.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="65. Valid Number.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="42. Trapping Rain Water.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="273. Integer to English Words.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="269. Alien Dictionary.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="124. Binary Tree Maximum Path Sum.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="301. Remove Invalid Parentheses.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="340. Longest Substring with At Most K Distinct Characters.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="827. Making A Large Island.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="708. Insert into a Sorted Circular Linked List.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="71. Simplify Path.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1762. Buildings With an Ocean View.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="333. Largest BST Subtree.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="139. Word Break.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="314. Binary Tree Vertical Order Traversal.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1053. Previous Permutation With One Swap.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1047. Remove All Adjacent Duplicates In String.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="498. Diagonal Traverse.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="329. Longest Increasing Path in a Matrix.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="163. Missing Ranges.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="896. Monotonic Array.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="33. Search in Rotated Sorted Array.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="689. Maximum Sum of 3 Non-Overlapping Subarrays.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1216. Valid Palindrome III.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="146. LRU Cache.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="958. Check Completeness of a Binary Tree.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="76. Minimum Window Substring.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="977. Squares of a Sorted Array.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="863. All Nodes Distance K in Binary Tree.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="246. Strobogrammatic Number.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1382. Balance a Binary Search Tree.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1004. Max Consecutive Ones III.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="295. Find Median from Data Stream.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1361. Validate Binary Tree Nodes.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="283. Move Zeroes.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="695. Max Area of Island.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1120. Maximum Average Subtree.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="311. Sparse Matrix Multiplication.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1213. Intersection of Three Sorted Arrays.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="162. Find Peak Element.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="378. Kth Smallest Element in a Sorted Matrix.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="724. Find Pivot Index.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="39. Combination Sum.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="16. 3Sum Closest.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1498. Number of Subsequences That Satisfy the Given Sum Condition.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="286. Walls and Gates.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1522. Diameter of N-Ary Tree.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="766. Toeplitz Matrix.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="739. Daily Temperatures.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="616. Add Bold Tag in String.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="666. Path Sum IV.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="844. Backspace String Compare.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="381. Insert Delete GetRandom O(1) - Duplicates allowed.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="51. N-Queens.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1275. Find Winner on a Tic Tac Toe Game.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="253. Meeting Rooms II.cpp">
+      <Filter>FB</Filter>
+    </ClCompile>
+    <ClCompile Include="1.Paint House.cpp">
+      <Filter>June%2721 challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1. Max Area of Island.cpp">
+      <Filter>June%2721 challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Interleaving String.cpp">
+      <Filter>June%2721 challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.cpp">
+      <Filter>June%2721 challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Open the Lock.cpp">
+      <Filter>June%2721 challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="5. Maximum Performance of a Team.cpp">
+      <Filter>June%2721 challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="19.Maximum Product of Splitted Binary Tree.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="19. Remove Nth Node From End of List.cpp">
+      <Filter>Aug%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1. Making A Large Island.cpp">
+      <Filter>Aug%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Two Sums.cpp">
+      <Filter>Aug%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Subsets II.cpp">
+      <Filter>Aug%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Path Sum II.cpp">
+      <Filter>Aug%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="5. Stone Game.cpp">
+      <Filter>Aug%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="Oindrill2cpp.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1. Maximum Average Subtree.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Array Nesting.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="18. Expression Add Operators.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="19. Distinct Subsequences.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="21.Max Consecutive Ones.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="15. Spiral Matrix.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="28. Shortest Path in a Grid with Obstacles Elimination.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="27. Unique Email Addresses.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="22. Maximum Length of a Concatenated String with Unique Characters.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="28. Sort Array By Parity II.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="29. Split Linked List in Parts.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Sum of Distances in Tree.cpp">
+      <Filter>Sept%2721 Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Diameter of Binary Tree.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Dungeon Game.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Jump Game.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1 Jump Game II.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="13. Construct Binary Search Tree from Preorder Traversal.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Island Perimeter.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="70. Climbing Stairs.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="5. Find All Duplicates in an Array.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="14. Perfect Squares.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="49. Group Anagrams.cpp">
+      <Filter>Amazon</Filter>
+    </ClCompile>
+    <ClCompile Include="127. Word Ladder.cpp">
+      <Filter>Amazon</Filter>
+    </ClCompile>
+    <ClCompile Include="15. Best Time to Buy and Sell Stock with Cooldown.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="16. 123. Best Time to Buy and Sell Stock III.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="496. Next Greater Element I.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment1_problem1_Bruteforce.cpp">
+      <Filter>SER501 Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="151. Reverse Words in a String.cpp">
+      <Filter>OCt%2721</Filter>
+    </ClCompile>
+    <ClCompile Include="5. Longest Palindromic Substring.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="linked list.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="6. ZigZag Conversion.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment1_problem1_recursive.cpp">
+      <Filter>SER501 Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment1_problem1_IterativeO(n).cpp">
+      <Filter>SER501 Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment2_problem1_strassen.cpp">
+      <Filter>SER501 Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="154. Find Minimum in Rotated Sorted Array II.cpp">
+      <Filter>SER501 Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="delete duplicates in the linked list.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="25. Reverse Nodes in k-Group II.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="9. Palindrome Number.cpp">
+      <Filter>Amazon</Filter>
+    </ClCompile>
+    <ClCompile Include="Dremio.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1888. Minimum Number of Flips to Make the Binary String Alternating.cpp">
+      <Filter>Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.cpp">
+      <Filter>two pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="1358. Number of Substrings Containing All Three Characters.cpp">
+      <Filter>two pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="1234. Replace the Substring for Balanced String.cpp">
+      <Filter>two pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Reverse Integer2.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="team scheduling algorithm.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="20. Valid Parentheses.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="36. Valid Sudoku.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="38. Count and Say.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="46. Permutations.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="48. Rotate Image.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="66. Plus One.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="69. Sqrt(x).cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="73. Set Matrix Zeroes.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="668. Kth Smallest Number in Multiplication Table.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="62. Unique Paths.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="448. Find All Numbers Disappeared in an Array.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="5930. Two Furthest Houses With Different Colors.cpp">
+      <Filter>weekly Contest\20/11/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5201. Watering Plants.cpp">
+      <Filter>weekly Contest\20/11/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5186. Range Frequency Queries.cpp">
+      <Filter>weekly Contest\20/11/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="isThisATree.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1793. Maximum Score of a Good Subarray.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="5938. Find Target Indices After Sorting Array.cpp">
+      <Filter>weekly Contest\27/11/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5939. K Radius Subarray Averages.cpp">
+      <Filter>weekly Contest\27/11/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5940. Removing Minimum and Maximum From Array.cpp">
+      <Filter>weekly Contest\27/11/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5942. Finding 3-Digit Even Numbers.cpp">
+      <Filter>weekly Contest\12/4/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5943. Delete the Middle Node of a Linked List.cpp">
+      <Filter>weekly Contest\12/4/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5944. Step-By-Step Directions From a Binary Tree Node to Another.cpp">
+      <Filter>weekly Contest\12/4/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="Rings and Rods3.cpp">
+      <Filter>weekly Contest\11/12/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5954. Watering Plants II.cpp">
+      <Filter>weekly Contest\11/12/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5953. Sum of Subarray Ranges.cpp">
+      <Filter>weekly Contest\11/12/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="22. Generate Parentheses.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="5958. Number of Smooth Descent Periods of a Stock.cpp">
+      <Filter>weekly Contest\12/18/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="5959. Minimum Operations to Make the Array K-Increasing.cpp">
+      <Filter>weekly Contest\12/18/2021</Filter>
+    </ClCompile>
+    <ClCompile Include="101. Symmetric Tree.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="84. Largest Rectangle in Histogram.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="105. Construct Binary Tree from Preorder and Inorder Traversal.cpp">
+      <Filter>Problems</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CreateATreeWithArray.h">
+      <Filter>LeetcodeUtility</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="21.Word Search.cpp">
+      <Filter>July Challenge</Filter>
+    </None>
+    <None Include="packages.config" />
+    <None Include="cpp.hint" />
+    <None Include="1.Longest Common Subsequence.cpp">
+      <Filter>OCt%2721</Filter>
+    </None>
+  </ItemGroup>
+</Project>
