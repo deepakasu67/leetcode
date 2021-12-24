@@ -7,7 +7,7 @@ public:
     int closestValue(TreeNode* root, double target)
     {
         TreeNode* foundNode = nullptr;
-        double minDiff = INFINITY;
+        double minDiff = INT_MAX;
 
         while(root)
         {

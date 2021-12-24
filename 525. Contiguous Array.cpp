@@ -37,9 +37,9 @@ public:
     }
 };
 
-int main(void)
-{
-    vector<int> nums = { 1,1,1,1,0,1,1,0 };
-    Solution obj;
-    obj.findMaxLength(nums);
-}
+//int main(void)
+//{
+//    vector<int> nums = { 1,1,1,1,0,1,1,0 };
+//    Solution obj;
+//    obj.findMaxLength(nums);
+//}

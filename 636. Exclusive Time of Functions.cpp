@@ -25,6 +25,7 @@ public:
             getFunctionNumAndTime.second = time;
             return false;
         }
+        return false;
     }
     vector<int> exclusiveTime(int n, vector<string>& logs)
     {

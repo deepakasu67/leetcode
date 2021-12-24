@@ -1,6 +1,8 @@
 #include<iostream>
 #include<unordered_map>
 #include<algorithm>
+#include<iostream>
+#include<vector>
 using namespace std;
 
 class Solution {

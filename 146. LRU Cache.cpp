@@ -1,6 +1,7 @@
 #include<iostream>
 #include<unordered_map>
 #include<utility>
+#include<list>
 using namespace std;
 
 class LRUCache {

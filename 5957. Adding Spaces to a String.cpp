@@ -6,14 +6,14 @@ class Solution {
 public:
     string addSpaces(string s, vector<int>& spaces) 
     {
-        int s = 0;
+        int sIdx = 0;
         string str;
         for (int i = 0; i < s.length(); i++)
         {
-            if (i == spaces[s])
+            if (i == spaces[sIdx])
             {
                 str += " ";
-                s++;
+                sIdx++;
             }
             str += s[i];
         }
