@@ -15,7 +15,7 @@ public:
             xorSum ^= n;
         }
         int lowSetBit = (xorSum & -xorSum);
-        vector res{ 0, 0 };
+        vector<int> res{ 0, 0 };
         for (auto const& n : nums)
         {
             if (n & lowSetBit)
