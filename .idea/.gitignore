@@ -13,3 +13,4 @@ _ReSharper.*
 bin
 obj
 packages
+cpp.o
