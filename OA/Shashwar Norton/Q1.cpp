@@ -1,6 +1,6 @@
-#include<iostream>
+#include <iostream>
 #include <algorithm>
-#include<vector>
+#include <vector>
 using namespace  std;
 
 int solution(vector<int> &A)
@@ -14,14 +14,14 @@ int solution(vector<int> &A)
     }
     return count;
 }
-
-int main(void)
-{
-    vector<int> nums = {6,2,3,5,6,3};
-    cout<<solution(nums)<<endl;
-    vector<int> nums1 = {2,3,3};
-    cout<<solution(nums1)<<endl;
-    vector<int> nums2 = {2,1,4,4};
-    cout<<solution(nums2)<<endl;
-}
+//
+//int main(void)
+//{
+//    vector<int> nums = {6,2,3,5,6,3};
+//    cout<<solution(nums)<<endl;
+//    vector<int> nums1 = {2,3,3};
+//    cout<<solution(nums1)<<endl;
+//    vector<int> nums2 = {2,1,4,4};
+//    cout<<solution(nums2)<<endl;
+//}
 
