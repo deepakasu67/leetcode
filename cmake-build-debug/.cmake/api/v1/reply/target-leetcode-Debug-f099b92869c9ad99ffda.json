@@ -557,7 +557,10 @@
 				490,
 				491,
 				492,
-				493
+				493,
+				494,
+				495,
+				496
 			]
 		}
 	],
@@ -1081,7 +1084,10 @@
 				490,
 				491,
 				492,
-				493
+				493,
+				494,
+				495,
+				496
 			]
 		},
 		{
@@ -4055,6 +4061,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "/Users/deepak/CLionProjects/leetcode/weekley Contest/Feb-19-2022/6015. Count Array Pairs Divisible by K.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/deepak/CLionProjects/leetcode/Problems/165. Compare Version Numbers .cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/deepak/CLionProjects/leetcode/Problems/1288. Remove Covered Intervals .cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/deepak/CLionProjects/leetcode/Problems/NumOfTaskCanBePerformed.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

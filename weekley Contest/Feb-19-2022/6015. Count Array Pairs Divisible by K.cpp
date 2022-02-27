@@ -10,12 +10,12 @@ class Solution {
 public:
     long long coutPairs(vector<int>& nums, int k) {
 
-        unordered_map<int, int>
+
 
     }
 };
 
-int main(void)
-{
-
-}
+//int main(void)
+//{
+//    cout<<"Deepak";
+//}
