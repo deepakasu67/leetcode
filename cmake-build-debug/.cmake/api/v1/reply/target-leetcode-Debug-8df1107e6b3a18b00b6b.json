@@ -568,7 +568,8 @@
 				501,
 				502,
 				503,
-				504
+				504,
+				505
 			]
 		}
 	],
@@ -1103,7 +1104,8 @@
 				501,
 				502,
 				503,
-				504
+				504,
+				505
 			]
 		},
 		{
@@ -4143,6 +4145,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "/Users/deepak/CLionProjects/leetcode/Problems/33. Search in Rotated Sorted Array .cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/deepak/CLionProjects/leetcode/Problems/392. Is Subsequence .cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
