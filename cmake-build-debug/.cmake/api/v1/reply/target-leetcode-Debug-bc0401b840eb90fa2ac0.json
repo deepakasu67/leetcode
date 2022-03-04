@@ -569,7 +569,8 @@
 				502,
 				503,
 				504,
-				505
+				505,
+				506
 			]
 		}
 	],
@@ -1105,7 +1106,8 @@
 				502,
 				503,
 				504,
-				505
+				505,
+				506
 			]
 		},
 		{
@@ -4151,6 +4153,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "/Users/deepak/CLionProjects/leetcode/Problems/392. Is Subsequence .cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/deepak/CLionProjects/leetcode/Problems/198. House Robber .cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
